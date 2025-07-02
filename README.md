@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "Barbie spends her days at home studying and preparing for exams.jpg" alt="cover image" style="border-radius: 12px;" width="100%" />
+  <img src= "1751439173814.jpg" alt="cover image" style="border-radius: 12px;" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Liya 💗</h1>
@@ -25,9 +25,6 @@
 Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, currently teaching myself Machine Learning.
 </p>
 
-  <p font-size: 14px; color: #7a4f63; font-style: italic;">
-    “Stay soft. Build hard. Believe always.” 💖
-  </p>
 
 
 
@@ -36,7 +33,6 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 
 
 <h2 align="center">🛠️ My Tech Stack</h2>
-<p align="center">Technologies I'm currently learning & loving 💗</p>
 
 <div align="center">
   
@@ -103,7 +99,28 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 
 </div>
 
+<h2 align="center" style="color:#d63384;">💻 My Projects</h2>
 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshot_20250702-121417.png" alt="Project 1" width="200" style="border-radius: 12px;" />
+      <br />
+      <span style="color:#d63384; font-weight: bold; font-family:'Segoe UI';">Diabetes Prediction</span>
+    </td>
+    <td align="center">
+      <img src="Screenshot_20250702-121437.png" alt="Project 2" width="200" style="border-radius: 12px;" />
+      <br />
+      <span style="color:#d63384; font-weight: bold; font-family:'Segoe UI';">NER app</span>
+    </td>
+    <td align="center">
+      <img src="Screenshot_20250702-121459.png" alt="Project 3" width="200" style="border-radius: 12px;" />
+      <br />
+      <span style="color:#d63384; font-weight: bold; font-family:'Segoe UI';">House Price Prediction</span>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -117,8 +134,10 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
   <img src="1751363598586.png" />
 </a>
 <p style="max-width:700px; font-size: 16px; color:#4b2c4d;">
-  A blog rooted in love, healing, and devotion. Inspired by Ajna’s radiant faith and deep Eucharistic love.  
-  I write to preserve her memory, share the light of Christ, and heal through testimony.
+
+Faith Like Ajna is my quiet blog, born from the faith of a girl who leads me closer to Jesus.
+
+
 </p>
 
 </div>
