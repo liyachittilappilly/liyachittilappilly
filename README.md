@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src= "1751439173814.jpg" alt="cover image" style="border-radius: 12px;" width="100%" />
 </p>
@@ -9,34 +8,19 @@
 </p>
 
 
-
-
-
-
-
-
-<!-- 🌸 Aesthetic About Me (GitHub-safe version) -->
 <div align="center" style="background: linear-gradient(to right, #ffe4ec, #fff); border-radius: 15px; padding: 30px; box-shadow: 0px 4px 14px rgba(255, 192, 203, 0.3); position: relative;">
-
-  <!-- Barbie silhouette background -->
 
 
   <p style="color: #d63384; z-index: 2;">
-Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, currently teaching myself Machine Learning.
+Hi, I’m Liya S Chittilappilly, 3rd year Computer Science student, currently teaching myself Machine Learning.
 </p>
 
-
-
-
-
 </div>
-
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <div align="center">
-  
-<!-- LANGUAGES -->
+
   
 <strong>Languages</strong>  
 <a href="https://www.python.org/" target="_blank">
@@ -53,8 +37,6 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 </a>
 
 <br><br>
-
-<!-- MACHINE LEARNING -->
 
 <strong>Machine Learning & Data Science</strong>  
 <a href="https://numpy.org/" target="_blank">
@@ -78,8 +60,6 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 
 <br><br>
 
-<!-- TOOLS -->
-
 <strong>Tools</strong>  
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-fcb1cd?style=for-the-badge&logo=git&logoColor=white" />
@@ -100,7 +80,6 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 </div>
 
 <h2 align="center" style="color:#d63384;">💻 My Projects</h2>
-
 
 <table align="center">
   <tr>
@@ -123,8 +102,6 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 </table>
 
 
-
-
 <div align="center">
 
 <h2 style="color:#d63384;">🕊️ Faith Like Ajna</h2>
@@ -143,7 +120,6 @@ Faith Like Ajna is my quiet blog, born from the faith of a girl who leads me clo
 </div>
 
 
-<!-- ☁️ Social Links in Soft Pink & White -->
 <h2 align="center" style="color:#d63384; font-family: 'Segoe UI', sans-serif; font-size: 28px;">☁️ Social Links</h2>
 
 
