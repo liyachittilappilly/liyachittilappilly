@@ -38,7 +38,7 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
   
 <!-- LANGUAGES -->
   
-🌸 <strong>Languages</strong>  
+<strong>Languages</strong>  
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
 </a>
@@ -56,7 +56,7 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 
 <!-- MACHINE LEARNING -->
 
-🌸 <strong>Machine Learning & Data Science</strong>  
+<strong>Machine Learning & Data Science</strong>  
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.shields.io/badge/Numpy-ffafd2?style=for-the-badge&logo=numpy&logoColor=white" />
 </a>
@@ -80,7 +80,7 @@ Hi, I’m Liya S Chittilappilly. I’m a 3rd year Computer Science student, curr
 
 <!-- TOOLS -->
 
-🌸 <strong>Tools</strong>  
+<strong>Tools</strong>  
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-fcb1cd?style=for-the-badge&logo=git&logoColor=white" />
 </a>
