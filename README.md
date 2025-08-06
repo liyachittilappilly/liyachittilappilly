@@ -24,7 +24,23 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-fad9e4?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 
+## 🚀 GitHub Stats & Achievements
 
+### 📊 GitHub Profile Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liyachittilappilly&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyachittilappilly&layout=compact&theme=radical)
+ 
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liyachittilappilly&theme=radical&no-frame=true&margin-w=30" alt="GitHub Trophies" />
+</div>
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liyachittilappilly&theme=radical)
 
 
 <h2 align="center" style="color:#ff69b4; font-family: 'Segoe UI', sans-serif; font-size: 28px;">☁️ Let's Connect ☁️</h2>
@@ -43,14 +59,6 @@
     </a>
   </div>
   
+## 🎵 Now Playing
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=liyachittilappilly&style=flat-square)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=liyachittilappilly&theme=radical&no-frame=true&margin-w=15)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liyachittilappilly&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liyachittilappilly&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyachittilappilly&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyachittilappilly&layout=compact&theme=radical)
+[![Spotify](https://novatorem.vercel.app/api/spotify)]([https://open.spotify.com/user/Hadley](https://open.spotify.com/user/31yayatyauykq44ob4ixhmcku3aa))
