@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <!-- Customize the text in the lines parameter -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I'm+Liya;Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I'm+Liya;Computer+Science+Student;I+can't+hear+you,+I'm+MANIFESTING" alt="Typing SVG" />
 </div>
 
 
