@@ -36,7 +36,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyachittilappilly&layout=compact&theme=radical)
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liyachittilappilly&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 
   <img src="https://github-profile-trophy.vercel.app/?username=liyachittilappilly&theme=radical&no-frame=true&margin-w=30" alt="GitHub Trophies" />
 
